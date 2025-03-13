@@ -1,0 +1,15 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+chauffeur		NFI		nouveau fichier
+adjoint		NFI		nouveau fichier
+voyage		NFI		nouveau fichier
+ligne		NFI		nouveau fichier
+voiture		NFI		nouveau fichier
+siege		NFI		nouveau fichier
+reservation		NFI		nouveau fichier
+Contrainte_voyage_chauffeur		NWL	chauffeur (IDchauffeur) et voyage (IDchauffeur)	Nouvelle liaison entre les fichiers chauffeur (IDchauffeur) et voyage (IDchauffeur)
+Contrainte_voyage_adjoint		NWL	adjoint (IDadjoint) et voyage (IDadjoint)	Nouvelle liaison entre les fichiers adjoint (IDadjoint) et voyage (IDadjoint)
+Contrainte_voyage_ligne		NWL	ligne (IDligne) et voyage (IDligne)	Nouvelle liaison entre les fichiers ligne (IDligne) et voyage (IDligne)
+Contrainte_ligne_voiture		NWL	ligne (IDligne) et voiture (IDligne)	Nouvelle liaison entre les fichiers ligne (IDligne) et voiture (IDligne)
+Contrainte_voiture_siege		NWL	voiture (IDvoiture) et siege (IDvoiture)	Nouvelle liaison entre les fichiers voiture (IDvoiture) et siege (IDvoiture)
+Contrainte_reservation_voyage		NWL	voyage (IDvoyage) et reservation (IDvoyage)	Nouvelle liaison entre les fichiers voyage (IDvoyage) et reservation (IDvoyage)
+Region		ENUMCOMBI+		L'énumération/combinaison Region a été créée.
