@@ -1,5 +1,3 @@
-//MO004-005.TXT ANA00004 TO ANA00005
-ligne		TAR	76	nouvelle taille enregistrement : 76
-ligne	scale	RUB-		la rubrique scale est supprimée
-siege		FIC-	siege	Fichier supprimé siege
-Contrainte_voiture_siege		DEL	voiture (IDvoiture) et siege (IDvoiture)	Liaison supprimée entre les fichiers voiture (IDvoiture) et siege (IDvoiture)
+//MO005-006.TXT ANA00005 TO ANA00006
+adjoint		TAR	420	nouvelle taille enregistrement : 420
+adjoint	photo	RUB+		photo est une nouvelle rubrique
