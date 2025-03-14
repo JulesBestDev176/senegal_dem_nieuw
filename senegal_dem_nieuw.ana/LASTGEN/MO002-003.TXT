@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+utilisateur		TAR	423	nouvelle taille enregistrement : 423
+utilisateur	role	CNW	Chaîne$Enumération	la rubrique role a pour nouveau type Chaîne
