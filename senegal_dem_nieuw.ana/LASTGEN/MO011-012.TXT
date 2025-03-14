@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+reservation	telephone	CLE-*		la rubrique telephone n'est plus une clé
+reservation	email	CLE-*		la rubrique email n'est plus une clé
+reservation	cni	CLE-*		la rubrique cni n'est plus une clé

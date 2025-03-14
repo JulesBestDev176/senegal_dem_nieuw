@@ -1,0 +1,5 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+voyage		TAR	121	nouvelle taille enregistrement : 121
+voyage	effectif	RUB+		effectif est une nouvelle rubrique
+ligne		TAR	170	nouvelle taille enregistrement : 170
+ligne	capacite	RUB-		la rubrique capacite est supprimée

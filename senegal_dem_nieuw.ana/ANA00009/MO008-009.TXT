@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+reservation		TAR	592	nouvelle taille enregistrement : 592
+reservation	region_depart	NNR	destination	ATTENTION : la rubrique destination a pour nouveau nom region_depart
+reservation	region_arrive	RUB+		region_arrive est une nouvelle rubrique

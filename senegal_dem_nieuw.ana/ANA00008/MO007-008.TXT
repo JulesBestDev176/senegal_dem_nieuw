@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+reservation		TAR	541	nouvelle taille enregistrement : 541
+reservation	destination	RUB+		destination est une nouvelle rubrique
